@@ -1,0 +1,36 @@
+/* Generell stil */
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Overskrifter */
+h1 {
+  color: #000000;
+  text-align: center;
+}
+h2 {
+  color: #0066cc;
+  margin-top: 20px;
+}
+
+/* Bilde */
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Footer */
+footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 0.9em;
+  color: gray;
+}
